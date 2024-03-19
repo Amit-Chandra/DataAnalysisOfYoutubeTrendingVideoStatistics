@@ -1,4 +1,4 @@
-# Data Cleaning and Exploratory Data Analysis with Pandas on Trending YouTube Video Statistics
+# Explore Data Cleaning and Data Analysis with Pandas on Trending YouTube Video Statistics
 
 In this project, I utilized various resources including `numpy`, `re`, `pandas`, `matplotlib`, `seaborn`, and more to perform Data Cleaning and Exploratory Data Analysis (EDA) on trending YouTube video statistics.
 
